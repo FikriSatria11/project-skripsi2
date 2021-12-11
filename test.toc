@@ -1,0 +1,129 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{HALAMAN JUDUL}{i}{Doc-Start}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{HALAMAN PERNYATAAN KEOTENTIKAN}{ii}{Doc-Start}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{HALAMAN PERSETUJUAN PEMBIMBING}{iii}{Doc-Start}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{HALAMAN PENGESAHAN}{iv}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{KATA PENGANTAR}{v}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{PERSETUJUAN PUBLIKASI KARYA ILMIAH}{viii}{Item.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ABSTRAK}{ix}{Item.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{ABSTRACT}{x}{table.caption.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR ISI}{xi}{table.caption.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR TABEL}{xiv}{table.caption.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR GAMBAR}{xv}{table.caption.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR LAMPIRAN}{xvii}{table.caption.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Tujuan Penelitian}{3}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Batasan Masalah}{3}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Manfaat Penelitian}{3}{section.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {II}TINJAUAN PUSTAKA}{4}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Internet of Things (IOT)}{4}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Automatic License Plate Recognition (ALPR)}{5}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Raspberry Pi}{6}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Module Sensor}{7}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}RFID MFRC522}{7}{subsection.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}HC-SR04}{9}{subsection.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}SG90}{10}{subsection.2.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.4}Push Button}{11}{subsection.2.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.5}Kamera Raspberry Pi v2}{12}{subsection.2.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {III}METODE PENELITIAN}{13}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Waktu dan Lokasi Penelitian}{13}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Tahapan Penelitian}{13}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Sumber Data}{14}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Rancangan Sistem}{14}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Rancangan \textit {Use Case} Diagram}{15}{section.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Instrumen Penelitian}{15}{section.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {IV}HASIL DAN PEMBAHASAN}{17}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Hasil Rancangan Sistem Identifikasi Kendaraan Pada Pemarkiran Dengan Pengenalan Citra Dan Pembacaan RFID}{17}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Hasil Perancangan Perangkat Keras}{17}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Raspberry Pi dan RFID MFRC522}{23}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Raspberry Pi dan HC-SR04}{25}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Raspberry Pi dan SG90}{27}{subsection.4.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.5}Raspberry Pi dan Button}{28}{subsection.4.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.6}Raspberry Pi dan Kamera Pi}{29}{subsection.4.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Hasil Rancangan Aplikasi Web}{30}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}\textit {Entity relationship Diagram}}{30}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Struktur \textit {Database}}{30}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Tampilan Website}{33}{subsection.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3.1}Tampilan \textit {Layout} Parkir}{33}{subsubsection.4.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3.2}Tampilan Isi Data}{35}{subsubsection.4.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3.3}Tampilan Isi Saldo}{35}{subsubsection.4.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3.4}Tampilan Daftar Pengguna}{36}{subsubsection.4.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.2.3.5}Tampilan Informasi}{36}{subsubsection.4.2.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{39}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Kesimpulan}{39}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Saran}{39}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR PUSTAKA}{39}{Item.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{LAMPIRAN}{40}{chapter*.57}%
+\defcounter {refsection}{0}\relax 
+\setcounter {tocdepth}{0}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Source Code RFID}{41}{section.G.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Source Code Servo}{41}{section.G.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Source Code Ultrasonik}{42}{section.G.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Source Code Kamera}{44}{section.G.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.5}Source Code Main}{45}{section.G.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.6}Source Code Web}{48}{section.G.6}%

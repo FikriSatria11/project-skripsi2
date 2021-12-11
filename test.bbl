@@ -1,0 +1,344 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{budianto2018a}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e8433ea27603a6626c713734f9d6b04}{%
+           family={Budianto},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e8433ea27603a6626c713734f9d6b04}
+      \strng{fullhash}{0e8433ea27603a6626c713734f9d6b04}
+      \strng{bibnamehash}{0e8433ea27603a6626c713734f9d6b04}
+      \strng{authorbibnamehash}{0e8433ea27603a6626c713734f9d6b04}
+      \strng{authornamehash}{0e8433ea27603a6626c713734f9d6b04}
+      \strng{authorfullhash}{0e8433ea27603a6626c713734f9d6b04}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Journal of Informatics}
+      \field{title}{Automatic License Plate Recognition: A Review with Indonesian Case Study}
+      \field{volume}{5}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{258\bibrangedash 270}
+      \range{pages}{13}
+    \endentry
+    \entry{dinarta2018a}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0b3e19eb573d195ee3532f8ff5ff327d}{%
+           family={Dinata},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {Elex Media Komputindo}%
+      }
+      \strng{namehash}{0b3e19eb573d195ee3532f8ff5ff327d}
+      \strng{fullhash}{0b3e19eb573d195ee3532f8ff5ff327d}
+      \strng{bibnamehash}{0b3e19eb573d195ee3532f8ff5ff327d}
+      \strng{authorbibnamehash}{0b3e19eb573d195ee3532f8ff5ff327d}
+      \strng{authornamehash}{0b3e19eb573d195ee3532f8ff5ff327d}
+      \strng{authorfullhash}{0b3e19eb573d195ee3532f8ff5ff327d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fun Coding with MicroPython}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ichwana2018a}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3aeba0cf77dc47b78ea5051985a0e1bb}{%
+           family={Ichwana},
+           familyi={I\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f73e18fc2b9a155fcb720f08da073190}{%
+           family={Aisuwarya},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4af1c855bcbac9c17613de5d90635c30}{%
+           family={Ardopa},
+           familyi={A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cb9393df79db54e4ef24cc1b6e8d8b9}{%
+           family={Purnama},
+           familyi={P\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7361a9ec3a842060ce4fa99ee11f66d4}
+      \strng{fullhash}{9b4e9a37356e8ebbed571539df6dc9b0}
+      \strng{bibnamehash}{7361a9ec3a842060ce4fa99ee11f66d4}
+      \strng{authorbibnamehash}{7361a9ec3a842060ce4fa99ee11f66d4}
+      \strng{authornamehash}{7361a9ec3a842060ce4fa99ee11f66d4}
+      \strng{authorfullhash}{9b4e9a37356e8ebbed571539df6dc9b0}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Teknologi dan Sistem Komputer}
+      \field{title}{Sistem Cerdas Reservasi dan Pemantauan Parkir pada Lokasi Kampus Berbasis Konsep Internet of Things}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{57\bibrangedash 63}
+      \range{pages}{7}
+    \endentry
+    \entry{limantara2017a}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2b06d26412bcff513ba8944bf6f6c826}{%
+           family={Limantara},
+           familyi={L\bibinitperiod},
+           given={A.D.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e852ec206e27c5c4c3a7a3c9636437d9}{%
+           family={Y.C.},
+           familyi={Y\bibinitperiod},
+           given={Purnomo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebdfc77788de8caabe54e9cc5897805}{%
+           family={S.W.},
+           familyi={S\bibinitperiod},
+           given={Mudjanarko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b2f844fae5c2961cdf299d8e0250be9}
+      \strng{fullhash}{8b2f844fae5c2961cdf299d8e0250be9}
+      \strng{bibnamehash}{8b2f844fae5c2961cdf299d8e0250be9}
+      \strng{authorbibnamehash}{8b2f844fae5c2961cdf299d8e0250be9}
+      \strng{authornamehash}{8b2f844fae5c2961cdf299d8e0250be9}
+      \strng{authorfullhash}{8b2f844fae5c2961cdf299d8e0250be9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seminar Nasional Sains dan Teknologi}
+      \field{title}{Pemodelan Sistem Pelacakan Lot Parkir Kosong Berbasis Sensor Ultrasonic dan Internet of Things (Iot) Pada Lahan Parkir Diluar Jalan}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+    \endentry
+    \entry{rahayu2019a}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67dd2c5f1cb3615f740d1e76b6cd606b}{%
+           family={Rahayu},
+           familyi={R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67dd2c5f1cb3615f740d1e76b6cd606b}
+      \strng{fullhash}{67dd2c5f1cb3615f740d1e76b6cd606b}
+      \strng{bibnamehash}{67dd2c5f1cb3615f740d1e76b6cd606b}
+      \strng{authorbibnamehash}{67dd2c5f1cb3615f740d1e76b6cd606b}
+      \strng{authornamehash}{67dd2c5f1cb3615f740d1e76b6cd606b}
+      \strng{authorfullhash}{67dd2c5f1cb3615f740d1e76b6cd606b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Retrieved from Warta Ekonomi:}
+      \field{title}{Mengenal Revolusi Industri dari 1.0 hingga 4.0}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.wartaekonomi.co.id/read226785/mengenal-revolusi-industri-dari-10-hingga-40.html
+      \endverb
+      \verb{url}
+      \verb https://www.wartaekonomi.co.id/read226785/mengenal-revolusi-industri-dari-10-hingga-40.html
+      \endverb
+    \endentry
+    \entry{singgeta2018a}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0da8aedf5dc447b954a718afc342567f}{%
+           family={Singgeta},
+           familyi={S\bibinitperiod},
+           given={R.L.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=469ff3a02686c496673d974e1e47be74}{%
+           family={P.D.},
+           familyi={P\bibinitperiod},
+           given={Manembu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87c5ca958c03e1575aa8f2399150282a}{%
+           family={M.D.},
+           familyi={M\bibinitperiod},
+           given={Rembet},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Seminar Nasional Riset dan Teknologi Terapan}%
+      }
+      \strng{namehash}{a089ab40477200f59e80ad4460129074}
+      \strng{fullhash}{a089ab40477200f59e80ad4460129074}
+      \strng{bibnamehash}{a089ab40477200f59e80ad4460129074}
+      \strng{authorbibnamehash}{a089ab40477200f59e80ad4460129074}
+      \strng{authornamehash}{a089ab40477200f59e80ad4460129074}
+      \strng{authorfullhash}{a089ab40477200f59e80ad4460129074}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sistem Pengamanan Pintu Rumah Dengan RFID Berbasis Wireless ESP8266}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{87\bibrangedash 97}
+      \range{pages}{11}
+    \endentry
+    \entry{suharman2019a}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=10124087135f316249181c93b01db34d}{%
+           family={Suharman},
+           familyi={S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f6ebe99a9c3fb4989480e30908020d61}{%
+           family={W.},
+           familyi={W\bibinitperiod},
+           given={Murti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2c38e3755e0b8c9ca7d5485b8a62331}
+      \strng{fullhash}{a2c38e3755e0b8c9ca7d5485b8a62331}
+      \strng{bibnamehash}{a2c38e3755e0b8c9ca7d5485b8a62331}
+      \strng{authorbibnamehash}{a2c38e3755e0b8c9ca7d5485b8a62331}
+      \strng{authornamehash}{a2c38e3755e0b8c9ca7d5485b8a62331}
+      \strng{authorfullhash}{a2c38e3755e0b8c9ca7d5485b8a62331}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Manajemen Industri dan Logistik}
+      \field{title}{Kajian Industri 4.0 Untuk Penerapannya di Indonesia}
+      \field{volume}{03}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+    \endentry
+    \entry{wicaksono2018a}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15e9c8ab45edfd7dd320eebe00c6a364}{%
+           family={Wicaksono},
+           familyi={W\bibinitperiod},
+           given={M.F.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bandung}%
+      }
+      \list{publisher}{1}{%
+        {INFORMATIKA}%
+      }
+      \strng{namehash}{15e9c8ab45edfd7dd320eebe00c6a364}
+      \strng{fullhash}{15e9c8ab45edfd7dd320eebe00c6a364}
+      \strng{bibnamehash}{15e9c8ab45edfd7dd320eebe00c6a364}
+      \strng{authorbibnamehash}{15e9c8ab45edfd7dd320eebe00c6a364}
+      \strng{authornamehash}{15e9c8ab45edfd7dd320eebe00c6a364}
+      \strng{authorfullhash}{15e9c8ab45edfd7dd320eebe00c6a364}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mudah Belajar Raspberry Pi}
+      \field{year}{2018}
+      \field{dateera}{ce}
+    \endentry
+    \entry{azli2017a}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81e61b1955a3be8739677c72cc666662}{%
+           family={Yahya},
+           familyi={Y\bibinitperiod},
+           given={Azli},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Semarang}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{81e61b1955a3be8739677c72cc666662}
+      \strng{fullhash}{81e61b1955a3be8739677c72cc666662}
+      \strng{bibnamehash}{81e61b1955a3be8739677c72cc666662}
+      \strng{authorbibnamehash}{81e61b1955a3be8739677c72cc666662}
+      \strng{authornamehash}{81e61b1955a3be8739677c72cc666662}
+      \strng{authorfullhash}{81e61b1955a3be8739677c72cc666662}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{4th International Conference on Information Technology, Computer, and Electrical Engineering (ICITACEE)}
+      \field{title}{4th Industrial Revolution: The Future of Machining}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{3}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
